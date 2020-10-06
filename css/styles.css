@@ -1,0 +1,71 @@
+body{
+    background-image: url('https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif');
+}
+
+.profilepic{
+    height: 120px;
+    width:120px;
+    position: relative;
+    padding-top: 100px;
+    left:700px;
+}
+
+.greetings{
+    text-align: center;
+    color:#fe91ca;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.name{
+    color:whitesmoke;
+    font-size:70px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.roles{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+span{
+    font-weight: lighter;
+    color: thistle;
+}
+
+.fb{
+    height: 50px;
+    width: 50px;
+}
+
+.instagram
+{
+    height:50px;
+    width:50px;
+    padding-left: 40px;
+}
+
+.linkedin{
+    height: 50px;
+    width: 50px;
+    padding-left: 40px;
+}
+
+.gmail{
+    height: 50px;
+    width: 50px;
+    padding-left: 40px;
+}
+
+.git{
+    height: 50px;
+    width: 50px;
+    padding-left: 40px;
+}
+
+.bottom{
+    text-align: center;
+    position: relative;
+    top:60px;
+}
