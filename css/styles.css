@@ -2,70 +2,76 @@ body{
     background-image: url('https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif');
 }
 
-.profilepic{
-    height: 120px;
-    width:120px;
-    position: relative;
-    padding-top: 100px;
-    left:700px;
+h1{
+    font-weight: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-size:50px;
+    color: cornsilk;
 }
 
-.greetings{
-    text-align: center;
-    color:#fe91ca;
+h2{
+    color:#ff8ba7;
+    font-size: 25px;
     font-family: 'Balsamiq Sans', cursive;
 }
 
-.name{
-    color:whitesmoke;
-    font-size:70px;
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
+.profile{
+    height:150px;
+    width:150px;
 }
 
-.roles{
-    color:white;
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
+p{
+    color: ivory;
 }
 
 span{
-    font-weight: lighter;
-    color: thistle;
+    font-weight: 100;
+}
+
+.top-container
+{
+    text-align: center;
+    min-width:30%;
+    max-width: 100%;
+    margin-top: 100px;
 }
 
 .fb{
-    height: 50px;
-    width: 50px;
-}
-
-.instagram
-{
     height:50px;
-    width:50px;
-    padding-left: 40px;
+    width: 50px;
 }
 
-.linkedin{
-    height: 50px;
+.instagram{
+    height:50px;
     width: 50px;
-    padding-left: 40px;
 }
 
 .gmail{
-    height: 50px;
+    height:50px;
     width: 50px;
-    padding-left: 40px;
 }
 
-.git{
-    height: 50px;
+.linkedin{
+    height:50px;
     width: 50px;
-    padding-left: 40px;
 }
 
-.bottom{
+.github{
+    height:50px;
+    width: 50px;
+}
+
+li{
+    display: inline;
+}
+
+.contacts{
+    margin-top: 100px;
+}
+.bottom-container{
     text-align: center;
-    position: relative;
-    top:60px;
+}
+
+li{
+    margin-right: 30px;
 }
