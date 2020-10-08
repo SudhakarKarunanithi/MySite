@@ -68,6 +68,7 @@ li{
 
 .contacts{
     margin-top: 100px;
+    min-width:25%;
 }
 .bottom-container{
     text-align: center;
