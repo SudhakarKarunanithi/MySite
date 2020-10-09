@@ -5,13 +5,13 @@ body{
 h1{
     font-weight: 100px;
     font-family: 'Roboto', sans-serif;
-    font-size:50px;
+    font-size:3.125rem;
     color: cornsilk;
 }
 
 h2{
     color:#ff8ba7;
-    font-size: 25px;
+    font-size: 1.563rem;
     font-family: 'Balsamiq Sans', cursive;
 }
 
